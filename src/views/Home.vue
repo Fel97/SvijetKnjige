@@ -1,0 +1,13 @@
+<template>
+  <span>
+    <h1>
+      Home
+    </h1>
+    <img 
+    src="../assets/logo.jpeg" 
+    alt="logo" 
+    width="500px" 
+    height="300px" 
+    />
+  </span>
+</template>
